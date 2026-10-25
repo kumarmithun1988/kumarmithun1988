@@ -12,18 +12,19 @@
 
 ### Azure Cloud | DevOps | Terraform | Microsoft 365 | CI/CD
 
-I'm an **IT Operations & Cloud professional** building my career toward **Azure Cloud and DevOps Engineering**.
-
-My journey started with hands-on hardware, desktop, and infrastructure support and gradually evolved into **Microsoft 365, Azure, Identity Management, Infrastructure as Code, CI/CD, automation, and DevOps**.
-
-I enjoy learning technologies by building things, breaking things, troubleshooting them, and understanding how they actually work behind the scenes.
-
 
 </div>
 
 ---
 
 ## 👨‍💻 About Me
+
+I'm an **IT Operations & Cloud professional** building my career toward **Azure Cloud and DevOps Engineering**.
+
+My journey started with hands-on hardware, desktop, and infrastructure support and gradually evolved into **Microsoft 365, Azure, Identity Management, Infrastructure as Code, CI/CD, automation, and DevOps**.
+
+I enjoy learning technologies by building things, breaking things, troubleshooting them, and understanding how they actually work behind the scenes.
+
 
 - 💼 Working in **IT Operations and Cloud Support**
 - ☁️ Building hands-on expertise in **Microsoft Azure**
