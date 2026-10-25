@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/profile-banner.png"
+    src="./assets/Profile-banner.png"
     alt="Mithun Kumar | Azure Cloud | DevOps | Terraform"
     width="100%"
   />
