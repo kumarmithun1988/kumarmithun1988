@@ -70,15 +70,6 @@ I use **Terraform** to build repeatable, modular, and automated infrastructure o
 - State locking and remote state management
 - Service Principal and OIDC authentication
 
-
-resource "azurerm_resource_group" "main" {
-
-  name     = "rg-mithun-devops"
-  
-  location = "Central India"
-  
-}
-
 ---
 
 
