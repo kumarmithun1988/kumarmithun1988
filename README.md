@@ -10,7 +10,7 @@
 
 # Hi, I'm Mithun Kumar
 
-### Azure Cloud | DevOps | Terraform | Microsoft 365 | CI/CD
+### ☁️ Azure Cloud | ⚙️ DevOps | 🏗️ Terraform | 🔐 Microsoft 365 | 🚀 CI/CD
 
 
 </div>
@@ -40,34 +40,12 @@ I enjoy learning technologies by building things, breaking things, troubleshooti
 - 🎯 Build secure, automated, scalable cloud infrastructure
 
 
-> **IT Operations → Microsoft 365 → Azure → Terraform → CI/CD → DevOps → DevSecOps**
+
+> **IT Support → IT Operations → Microsoft 365 → Microsoft Azure → Terraform → CI/CD/DevOps → DevSecOps → Cloud Automation**
+
 
 ---
 # 🛠️ Tech Stack
-## ☁️ Cloud & Microsoft Ecosystem
-
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
-  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365"/>
-  <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0067B8?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Entra ID"/>
-  <img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Intune"/>
-  <img src="https://img.shields.io/badge/Exchange_Online-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Exchange Online"/>
-</p>
-
-### Azure areas I work with
-
-- Azure Virtual Machines
-- Virtual Networks and Subnets
-- Network Security Groups and Network Interfaces
-- Azure Bastion and Load Balancer
-- Azure Storage Accounts
-- Resource Groups
-- Azure RBAC
-- Service Principals
-- Identity and Access Management
-- Terraform Remote State
-
----
 
 ## 🏗️ Infrastructure as Code
 
@@ -92,66 +70,17 @@ I use **Terraform** to build repeatable, modular, and automated infrastructure o
 - State locking and remote state management
 - Service Principal and OIDC authentication
 
-```hcl
+
 resource "azurerm_resource_group" "main" {
+
   name     = "rg-mithun-devops"
+  
   location = "Central India"
+  
 }
 
-<!-- ====================================================== -->
-<!--              MITHUN KUMAR | GITHUB PROFILE             -->
-<!-- ====================================================== -->
-
-<p align="center">
-  <img
-    src="./assets/github-cover.png"
-    alt="Mithun Kumar | Azure Cloud | DevOps | Terraform"
-    width="100%"
-  />
-</p>
-
-<h1 align="center">Hi 👋, I'm Mithun Kumar</h1>
-
-<h3 align="center">
-☁️ Azure Cloud | ⚙️ DevOps | 🏗️ Terraform | 🔐 Microsoft 365 | 🚀 CI/CD
-</h3>
-
-<p align="center">
-IT Operations & Cloud professional focused on building secure, automated and scalable cloud infrastructure using Microsoft Azure, Terraform and modern DevOps practices.
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=0078D4&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-
-</p>
-
 ---
 
-
-### My Technology Journey
-
-```text
-IT Support
-    ↓
-IT Operations
-    ↓
-Microsoft 365
-    ↓
-Microsoft Azure
-    ↓
-Terraform & IaC
-    ↓
-CI/CD & DevOps
-    ↓
-Security & DevSecOps
-    ↓
-Cloud Automation
-```
-
----
-
-# 🛠️ Technical Expertise
 
 ## ☁️ Cloud & Microsoft Ecosystem
 
@@ -708,33 +637,6 @@ Azure Resources
 # 📚 Currently Learning
 
 ```yaml
-Cloud:
-  - Azure Architecture
-  - Azure Landing Zones
-  - Azure Networking
-  - Identity & Access Management
-
-Governance:
-  - Management Groups
-  - Azure Policy
-  - Azure RBAC
-
-Infrastructure_as_Code:
-  - Terraform
-  - Reusable Modules
-  - Remote State
-  - Landing Zone Automation
-
-DevOps:
-  - Azure DevOps
-  - YAML Pipelines
-  - GitHub Actions
-  - CI/CD Automation
-
-Security:
-  - DevSecOps
-  - Infrastructure Security
-  - OIDC Authentication
 
 Operations:
   - Cloud Migration
@@ -782,19 +684,6 @@ My goal is to continue developing as an **Azure Cloud & DevOps Engineer**, bring
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages"/>
-
-</div>
-
----
 
 # 🤝 Let's Connect
 
